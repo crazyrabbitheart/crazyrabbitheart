@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm a not only FULLSTACK DEVELOPER but also TRADE EXPERT. </p>
-<p>email; melichukom@gmail.com</p>
-<p>telegram; @crazyrabbitheart</p>
 <br>
 
 <h3>Languages and Tools:</h3>
